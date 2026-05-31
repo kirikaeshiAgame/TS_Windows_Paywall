@@ -1,4 +1,4 @@
-# NastDubai
+# Тестовое
 
 Мобильное Flutter-приложение с paywall-онбордингом, стеклянным (glassmorphism) UI и тёмной темой.
 
